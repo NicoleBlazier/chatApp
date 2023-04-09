@@ -4,7 +4,9 @@ Login Credentials:
 There are 3 Users for this project.  Below are the user credentials.
 
 User 1: Username: David, Password: david
+
 User 2: Username: Nicole, Password: nicole
+
 User 3: Username: Nelda, Password: nelda
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
